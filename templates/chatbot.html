@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard with AI Chatbot</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .chatbot-container {
+      max-height: 400px;
+      overflow-y: auto;
+      scroll-behavior: smooth;
+    }
+    /* Added custom styles for responsive centering */
+    .chatbot-wrapper {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 100%;
+      max-width: 360px; /* Restrict max width for responsiveness */
+      height: 100%;
+      max-height: 500px; /* Restrict max height */
+      display: flex;
+      flex-direction: column;
+      background-color: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+  </style>
+</head>
+<body class="bg-gray-100 min-h-screen flex justify-center items-center">
+
+  <!-- Page content -->
+  <main class="p-6 text-center max-w-4xl w-full">
+    <h1 class="text-3xl font-bold mb-4 text-gray-800">📊 Welcome to the Dashboard</h1>
+    <p class="text-gray-600">Ask the chatbot for help with student, faculty, or staff queries below.</p>
+  </main>
+
+  <!-- Chatbot -->
+  <div class="chatbot-wrapper">
+    <!-- Header -->
+    <div class="flex items-center justify-between px-4 py-2 border-b bg-blue-50 rounded-t-xl">
+      <h2 class="text-sm font-semibold text-gray-700">🤖 Campus FAQ Chatbot</h2>
+      <select id="role" class="text-sm border rounded px-2 py-1 focus:outline-none">
+        <option value="student">Student</option>
+        <option value="faculty">Faculty</option>
+        <option value="staff">Staff</option>
+      </select>
+    </div>
+
+    <!-- Chatbox -->
+    <div id="chatbox" class="chatbot-container px-4 py-2 space-y-2 text-sm h-64 overflow-auto">
+      <!-- Messages will appear here -->
+    </div>
+
+    <!-- Input -->
+    <div class="flex border-t bg-white rounded-b-xl">
+      <input id="userInput" type="text" placeholder="Ask a question..." class="flex-1 px-3 py-2 text-sm border-r focus:outline-none" />
+      <button onclick="sendMessage()" class="px-4 text-blue-600 hover:text-blue-800 font-semibold text-sm">Send</button>
+    </div>
+  </div>
+
+  <!-- Chatbot JS -->
+  <script>
+    const input = document.getElementById("userInput");
+    const chatbox = document.getElementById("chatbox");
+    const roleSelect = document.getElementById("role");
+
+    input.addEventListener("keypress", function (e) {
+      if (e.key === "Enter") sendMessage();
+    });
+
+    function appendMessage(sender, message, colorClass) {
+      const msg = document.createElement("div");
+      msg.className = `rounded px-3 py-2 ${colorClass} inline-block max-w-[85%]`;
+      msg.innerText = `${sender}: ${message}`;
+      const wrapper = document.createElement("div");
+      wrapper.className = sender === "You" ? "text-right" : "text-left";
+      wrapper.appendChild(msg);
+      chatbox.appendChild(wrapper);
+      chatbox.scrollTop = chatbox.scrollHeight;
+    }
+
+    async function sendMessage() {
+      const message = input.value.trim();
+      const role = roleSelect.value;
+      if (message === "") return;
+
+      appendMessage("You", message, "bg-blue-100 text-blue-800");
+      input.value = "";
+
+      const response = await fetch("/chatbot", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ role, message })
+      });
+
+      const data = await response.json();
+      appendMessage("Bot", data.response, "bg-gray-100 text-gray-800");
+    }
+  </script>
+</body>
+</html>

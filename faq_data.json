@@ -1,0 +1,4002 @@
+[
+    {
+        "question": "How can I reset my password?",
+        "answer": "Go to 'Account Settings' and click on 'Reset Password.'"
+    },
+    {
+        "question": "How can I check my marks?",
+        "answer": "View them under the 'Marks' section in the Student Portal."
+    },
+    {
+        "question": "How do I view my attendance?",
+        "answer": "Check it in the 'Attendance' section of the Student Portal."
+    },
+    {
+        "question": "How do I update my profile?",
+        "answer": "Go to 'Profile' and click 'Edit Profile'."
+    },
+    {
+        "question": "How do I contact support?",
+        "answer": "Contact support via the 'Contact Us' page or email support@campus.com."
+    },
+    {
+        "question": "Hi",
+        "answer": "\ud83d\udc4b Hello! How can I assist you today?"
+    },
+    {
+        "question": "Hello",
+        "answer": "Hi there! Need any help?"
+    },
+    {
+        "question": "Hey",
+        "answer": "Hey! I'm here to help you."
+    },
+    {
+        "question": "Good morning",
+        "answer": "Good morning! How can I assist you?"
+    },
+    {
+        "question": "Good evening",
+        "answer": "Good evening! What can I help you with?"
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "Can I change my registered email?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "What should I do if I miss a class?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Contact your faculty and submit a leave application."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I log out of the portal?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Apply for leave through the 'Leave Request' tab."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Study materials are available under 'Resources'."
+    },
+    {
+        "question": "How to download my fee receipt?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "You can view it under the 'Timetable' section."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "Where do I submit my assignments?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Click on your profile icon and select 'Logout'."
+    },
+    {
+        "question": "Is there a mobile app for the portal?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How do I change my course?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Visit the 'Course Registration' page for changes."
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Yes, download it from the App Store or Play Store."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Download fee receipts from the 'Finance' tab."
+    },
+    {
+        "question": "How to access study materials?",
+        "answer": "Go to 'Account Settings' to update your email."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Assignments can be submitted via the 'Assignments' section."
+    }
+]
