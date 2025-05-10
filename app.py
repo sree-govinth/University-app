@@ -4,14 +4,13 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from dotenv import load_dotenv
 import os
 from functools import wraps
-from datetime import datetime, timedelta
+from datetime import timedelta
 import pytz
-import json
 
 # Load environment variables
 load_dotenv()
 
-app = Flask(__name__)
+app = Flask(__name__)  # Fix: Use __name, not _name
 app.secret_key = os.getenv('FLASK_SECRET_KEY', 'your_secret_key')
 app.permanent_session_lifetime = timedelta(minutes=30)
 
@@ -19,10 +18,8 @@ app.permanent_session_lifetime = timedelta(minutes=30)
 try:
     client = MongoClient(os.getenv("MONGO_URI"))
     db = client['campusApp']
-
-    # Ensure required collections are initialized
+    # Required collections
     collections = ['users', 'students', 'activities', 'events', 'notifications', 'resources', 'announcements']
-    
     for collection_name in collections:
         if collection_name not in db.list_collection_names():
             db.create_collection(collection_name)
@@ -32,17 +29,26 @@ try:
     students = db['students']
     activities = db['activities']
     events = db['events']
-    #notifications_collection = db['notifications']
     resources_collection = db['resources']
     announcements_collection = db['announcements']
 
+    # Optional: Insert admin user if not exists
+    admin_email = "sree123@gmail.com"
+    if not users.find_one({"email": admin_email}):
+        admin_user = {
+            "name": "Sree",
+            "email": admin_email,
+            "password": generate_password_hash("1234"),
+            "role": "admin"
+        }
+        users.insert_one(admin_user)
+        print("✅ Admin user inserted.")
+
 except Exception as e:
     print(f"MongoDB Connection Error: {e}")
-
     @app.route("/error")
     def error():
         return render_template('error.html', message="Database connection failed.")
-    
     exit(1)
 
 # Auth Decorator
@@ -106,22 +112,33 @@ def signup():
 @app.route('/login', methods=['GET', 'POST'])
 def login():
     if request.method == 'POST':
-        email = request.form['email'].strip().lower()
+        email = request.form['email']
         password = request.form['password']
 
         user = users.find_one({'email': email})
 
         if user and check_password_hash(user['password'], password):
-            session.permanent = True
             session['user'] = {
+                'name': user['name'],
                 'email': user['email'],
-                'role': user['role'],
-                'name': user['name']
+                'role': user['role']
             }
-            return redirect(url_for(f"{user['role']}_dashboard"))
 
-        flash('Invalid email or password.')
-    return render_template('login.html')
+            print("Login successful:", session['user'])  # ✅ Add this
+
+            if user['role'] == 'admin':
+                return redirect(url_for('admin_dashboard'))
+            elif user['role'] == 'student':
+                return redirect(url_for('student_dashboard'))
+            elif user['role'] == 'faculty':
+                return redirect(url_for('faculty_dashboard'))
+            elif user['role'] == 'staff':
+                return redirect(url_for('staff_dashboard'))
+        else:
+            flash("Invalid email or password", "danger")
+            print("Login failed for:", email)  # ✅ Add this too
+
+    return render_template("login.html")  # ⚠️ Only if GET or failed login
 
 @app.route('/logout')
 def logout():
@@ -205,6 +222,7 @@ def student_dashboard():
     }
 
     return render_template('student_dashboard.html',
+                       student=student,  # Pass the student object to the template
                        grades=grades,
                        subjects=subjects,
                        grades_values=grades_values,
@@ -351,31 +369,38 @@ def get_notifications():
     return jsonify(list(activities.find().sort('timestamp', -1).limit(1)))
 
 # View Student Profile
-@app.route('/view_student/<email>')
+from urllib.parse import unquote_plus
+from flask import session, flash, redirect, url_for, render_template
+
+@app.route('/view_student/<encoded_email>')
 @login_required
-def view_student(email):
-    if session['user']['role'] not in ['admin', 'faculty', 'staff']:
+def view_student(encoded_email):
+    user = session.get('user')
+    if not user or user.get('role') not in ['admin', 'faculty', 'staff']:
         flash("Unauthorized access.")
         return redirect(url_for('login'))
+
+    # Decode the URL-encoded email
+    email = unquote_plus(encoded_email)
 
     student = students.find_one({'email': email})
     if not student:
         flash("Student not found.")
-        return redirect(url_for(f"{session['user']['role']}_dashboard"))
+        return redirect(url_for(f"{user['role']}_dashboard"))
 
     grades = student.get('grades', {})
     attendance_dict = student.get('attendance', {})
     subjects = list(grades.keys())
-    grades_values = list(grades.values())
+    grades_values = [grades[sub] for sub in subjects]
     attendance = [attendance_dict.get(sub, 0) for sub in subjects]
 
     return render_template('student_dashboard.html',
+                           student=student,  # Pass the whole student object
                            grades=grades,
                            subjects=subjects,
                            grades_values=grades_values,
                            attendance=attendance,
-                           is_viewing=True,
-                           student_name=student.get('name', 'Student'))
+                           is_viewing=True)
 
 # Search Student
 @app.route('/search_student')
@@ -460,68 +485,14 @@ def update_resource():
 
     return redirect(url_for('staff_dashboard'))
 
-import random
-import json
-
-# Base FAQs (greetings + main student queries)
-base_faqs = [
-    {"question": "How can I reset my password?", "answer": "Go to 'Account Settings' and click on 'Reset Password.'"},
-    {"question": "How can I check my marks?", "answer": "View them under the 'Marks' section in the Student Portal."},
-    {"question": "How do I view my attendance?", "answer": "Check it in the 'Attendance' section of the Student Portal."},
-    {"question": "How do I update my profile?", "answer": "Go to 'Profile' and click 'Edit Profile'."},
-    {"question": "How do I contact support?", "answer": "Contact support via the 'Contact Us' page or email support@campus.com."},
-    {"question": "Hi", "answer": "👋 Hello! How can I assist you today?"},
-    {"question": "Hello", "answer": "Hi there! Need any help?"},
-    {"question": "Hey", "answer": "Hey! I'm here to help you."},
-    {"question": "Good morning", "answer": "Good morning! How can I assist you?"},
-    {"question": "Good evening", "answer": "Good evening! What can I help you with?"},
+faq_data = [
+    {"question": "How can I reset my password?", "answer": "To reset your password, go to the 'Account Settings' page and click on 'Reset Password.'"},
+    {"question": "How can I check my marks?", "answer": "You can view your marks on the 'Student Portal' under the 'Marks' section."},
+    {"question": "How do I view my attendance?", "answer": "You can check your attendance in the 'Attendance' section of the Student Portal."},
+    {"question": "How do I update my profile?", "answer": "To update your profile, go to the 'Profile' page and click on 'Edit Profile.'"},
+    {"question": "How do I contact support?", "answer": "You can contact support through the 'Contact Us' section or email support@campus.com."},
+    # Add more relevant FAQs here
 ]
-
-# Additional possible questions and answers
-extra_questions = [
-    "Where can I find my class schedule?",
-    "What should I do if I miss a class?",
-    "How do I apply for leave?",
-    "Where do I submit my assignments?",
-    "Can I change my registered email?",
-    "How to download my fee receipt?",
-    "Is there a mobile app for the portal?",
-    "How do I change my course?",
-    "How to access study materials?",
-    "How do I log out of the portal?",
-]
-
-extra_answers = [
-    "You can view it under the 'Timetable' section.",
-    "Contact your faculty and submit a leave application.",
-    "Apply for leave through the 'Leave Request' tab.",
-    "Assignments can be submitted via the 'Assignments' section.",
-    "Go to 'Account Settings' to update your email.",
-    "Download fee receipts from the 'Finance' tab.",
-    "Yes, download it from the App Store or Play Store.",
-    "Visit the 'Course Registration' page for changes.",
-    "Study materials are available under 'Resources'.",
-    "Click on your profile icon and select 'Logout'.",
-]
-
-# Combine base FAQs with randomly generated ones
-faq_data = []
-
-# Start with base FAQs
-faq_data.extend(base_faqs)
-
-# Generate the rest up to 1000
-while len(faq_data) < 1000:
-    q = random.choice(extra_questions)
-    a = random.choice(extra_answers)
-    faq_data.append({"question": q, "answer": a})
-
-# Save to JSON file
-with open("faq_data.json", "w") as f:
-    json.dump(faq_data, f, indent=4)
-
-print(f"✅ Successfully generated {len(faq_data)} FAQ entries and saved to 'faq_data.json'")
-
 
 from sentence_transformers import SentenceTransformer, util
 
@@ -536,27 +507,25 @@ faq_embeddings = model.encode(faq_questions, convert_to_tensor=True)
 @app.route("/chatbot", methods=["GET", "POST"])
 def chatbot():
     if request.method == "GET":
-        return render_template("chatbot.html")
+        return render_template("chatbot.html")  # Show the chatbot interface
 
+    # Handle chatbot message (POST)
     data = request.get_json()
-    user_input = data.get('message', '').strip()
-
-    if not user_input:
-        return jsonify({"response": "❓ Please enter a valid question."})
-
-    # Encode only the user message (without role for better matching)
+    user_input = f"{data['role']} - {data['message']}"  # Combine role and message
     user_embedding = model.encode(user_input, convert_to_tensor=True)
+
+    # Find the best match between the user query and the FAQ data
     scores = util.pytorch_cos_sim(user_embedding, faq_embeddings)[0]
     best_score_idx = int(scores.argmax())
     best_score = float(scores[best_score_idx])
 
-    if best_score >= 0.6:  # Lowered threshold
+    # Increase the similarity threshold to filter out irrelevant answers
+    if best_score >= 0.7:  # Increased threshold for better matches
         answer = faq_answers[best_score_idx]
     else:
         answer = "❓ I'm not sure how to help with that. Please contact your department for support."
 
     return jsonify({"response": answer})
 
-
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)

@@ -39,7 +39,7 @@
 
     <!-- Welcome -->
     <section class="bg-white p-6 rounded-2xl shadow-md">
-      <h2 class="text-2xl font-semibold mb-2">Welcome, {{ session['user']['name'] }}! 👋</h2>
+    <h2 class="text-2xl font-semibold mb-2">Welcome, {{ student.name }}! 👋</h2>
       <p class="text-gray-600">This is your personalized dashboard. Monitor your performance, attendance, and academic journey here.</p>
     </section>
 
@@ -232,7 +232,7 @@
     const subjects = {{ subjects | tojson | safe }};
     const attendance = {{ attendance | tojson | safe }};
     const grades = {{ grades_values | tojson | safe }};
-    const semesterComparison = {{ semester_comparison | tojson | safe }};
+    const semesterComparison = {{ semester_comparison | default({}) | tojson | safe }};
 
     // Attendance Section
     if (subjects?.length && attendance?.length) {
